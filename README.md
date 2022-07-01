@@ -104,7 +104,7 @@ Install flutter
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/raysummee/raylex-studio/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/raysummee/dino_runner/issues) for a list of proposed features (and known issues).
 
 
 
@@ -133,7 +133,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Angshuman Barpujari - [@instagram](https://instagram.com/angshuman_barpujari) - raysummee@gmail.com
 
-Project Link: [https://github.com/raysummee/raylex-studio](https://github.com/raysummee/raylex-studio)
+Project Link: [https://github.com/raysummee/dino_runner](https://github.com/raysummee/dino_runner)
 
 
 
@@ -141,15 +141,15 @@ Project Link: [https://github.com/raysummee/raylex-studio](https://github.com/ra
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/raysummee/raylex-studio.svg?style=for-the-badge
-[contributors-url]: https://github.com/raysummee/raylex-studio/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/raysummee/raylex-studio.svg?style=for-the-badge
-[forks-url]: https://github.com/raysummee/raylex-studio/network/members
-[stars-shield]: https://img.shields.io/github/stars/raysummee/raylex-studio.svg?style=for-the-badge
-[stars-url]: https://github.com/raysummee/raylex-studio/stargazers
-[issues-shield]: https://img.shields.io/github/issues/raysummee/raylex-studio.svg?style=for-the-badge
-[issues-url]: https://github.com/raysummee/raylex-studio/issues
-[license-shield]: https://img.shields.io/github/license/raysummee/raylex-studio.svg?style=for-the-badge
-[license-url]: https://github.com/raysummee/raylex-studio/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/raysummee/dino_runner.svg?style=for-the-badge
+[contributors-url]: https://github.com/raysummee/dino_runner/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/raysummee/dino_runner.svg?style=for-the-badge
+[forks-url]: https://github.com/raysummee/dino_runner/network/members
+[stars-shield]: https://img.shields.io/github/stars/raysummee/dino_runner.svg?style=for-the-badge
+[stars-url]: https://github.com/raysummee/dino_runner/stargazers
+[issues-shield]: https://img.shields.io/github/issues/raysummee/dino_runner.svg?style=for-the-badge
+[issues-url]: https://github.com/raysummee/dino_runner/issues
+[license-shield]: https://img.shields.io/github/license/raysummee/dino_runner.svg?style=for-the-badge
+[license-url]: https://github.com/raysummee/dino_runner/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/angshuman-barpujari-26504016b
