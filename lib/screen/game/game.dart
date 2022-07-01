@@ -1,15 +1,14 @@
-import 'package:dino_runner/core/controller/enemy_manager.dart';
-import 'package:dino_runner/core/enums/enemy_type_enum.dart';
+import 'package:dino_runner/controller/audio_manager.dart';
 import 'package:dino_runner/screen/sprites/dino_sprite.dart';
 import 'package:dino_runner/screen/sprites/enemy_sprite.dart';
 import 'package:flame/components.dart';
 import 'package:flame/game.dart';
 import 'package:flame/input.dart';
 import 'package:flame/parallax.dart';
-import 'package:flame/sprite.dart';
 import 'package:flutter/widgets.dart';
 
-import '../../core/controller/audio_manager.dart';
+import '../../controller/enemy_manager.dart';
+
 
 class GameScreen extends FlameGame with TapDetector {
   DinoSprite dino = DinoSprite();

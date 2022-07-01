@@ -1,5 +1,5 @@
+import 'package:dino_runner/controller/audio_manager.dart';
 import 'package:dino_runner/core/constants.dart';
-import 'package:dino_runner/core/controller/audio_manager.dart';
 import 'package:flame/components.dart';
 import 'package:flame/sprite.dart';
 import 'package:flame/cache.dart';
